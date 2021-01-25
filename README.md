@@ -1,4 +1,9 @@
-![ScreenShot](https://raw.github.com/gladysum/bearthcay/master/public/bearthday-screenshot.png)
+## Bearthday app
+An app that displays photos of earth taken on the user's most recent birthday.
+A screenshot of the app is in public/bearthday-screenshot.png.
+
+### `yarn install`
+Installs dependencies.
 
 ### `yarn start`
 
